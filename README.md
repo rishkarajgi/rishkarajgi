@@ -15,7 +15,7 @@
 ## 🧑 About me:
 
 <p>
-I am currently working as a <b>Senior Software Engineer</b> at Astronomer.
+A problem solver by heart, I enjoy solving complex business as well as technical problems especially at scale and using best practices to arrive at an efficient and scalable solution. 
 </p>
 
 <h2>🥇 Specialised in:</h2>
