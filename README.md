@@ -4,7 +4,7 @@
 </h2>
 
 <h4 align='center'>
-  Product Software Engineer
+  Technology and Product hacker
 </h4>
 
 <p align="center">
