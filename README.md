@@ -4,7 +4,7 @@
 </h2>
 
 <h4 align='center'>
-  Technology and Product hacker
+  Technology and Product enthusiast
 </h4>
 
 <p align="center">
